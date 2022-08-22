@@ -1,4 +1,4 @@
-# Ejercicios extras: Introducción a python
+# Ejercicios de repaso: Introducción a python
 ---
 
 ## 1. Elaborar un programa para evaluar una palabra si es palíndromo o  no.
